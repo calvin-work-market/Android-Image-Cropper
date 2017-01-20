@@ -15,7 +15,7 @@
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/crop_image_menu_crop"
-        android:title="@string/crop_image_menu_crop"
+        android:title="@string/crop_image_menu_save"
         app:showAsAction="always"/>
 
 </menu>
